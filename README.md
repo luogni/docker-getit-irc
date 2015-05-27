@@ -1,2 +1,2 @@
 # docker-getit-irc
-getit support for irc
+irc support for getit
